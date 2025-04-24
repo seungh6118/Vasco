@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import SupportResistanceCalculator from './components/SupportResistanceCalculator';
+import SupportResistanceCalculator from './components/SupportResistanceCalculator.tsx';
 
 function App() {
   return (
