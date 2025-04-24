@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "vasco-app",
   "version": "0.1.0",
   "private": true,
@@ -41,9 +40,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-=======
   "dependencies": {
     "react-scripts": "^5.0.1"
->>>>>>> 57fefedc4d699a9b02d4e51155649aa7f6fba863
   }
 }
